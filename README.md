@@ -9,7 +9,7 @@ Este repositório contém uma análise de dados focada em testes de hipóteses, 
 
 2.	Análise de Pacientes: Utilização da base de dados `pacientes.csv` para aplicar testes de hipóteses (Teste t, ANOVA, Qui-quadrado, etc.) e responder a questões sobre a relação entre variáveis como pressão arterial, idade, gênero e etnia.
 
-##### Questões Investigadas:
+#### Questões Investigadas:
 Este projeto responde às seguintes perguntas com base nos dados fornecidos:
 
 •	Qual cenário (A ou B) possui a maior taxa de conversão?
